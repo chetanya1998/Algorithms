@@ -1,5 +1,6 @@
 
 #include<iostream>
+#include<stdio>
 using namespace std;
 int main(){
   int i,j,n,temp,a[30];
